@@ -51,7 +51,7 @@
 </thead>
 <tbody>
 <tr>
-<td bgColor='#2FEFEF'><span style="display:block;width:80px;height:20px;background-color:#2FEFEF">&nbsp;</span></td>
+<td bgColor='#2FEFEF'></td>
 <td>#2FEFEF</td>
 <td>1.0</td>
 </tr>
