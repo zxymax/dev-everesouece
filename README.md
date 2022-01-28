@@ -52,7 +52,7 @@
 <tbody>
 <tr>
 <td bgColor='#2FEFEF'></td>
-<td>#2FEFEF</td>
+<td style="background-color:#2FEFEF">#2FEFEF</td>
 <td>1.0</td>
 </tr>
 <tr>
