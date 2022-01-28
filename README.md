@@ -41,7 +41,6 @@
 > [Wars_API](Wars_api.js)
 
 
-```html
 <table cellspacing="0">
 <thead>
 <tr>
@@ -108,4 +107,3 @@
 </tr>
 </tbody>
 </table>
-```
